@@ -1,30 +1,21 @@
 # FUTURE_DS_02
 
-📊 Ad Campaign Performance Analysis (Facebook & Instagram) 📌 Project Overview
+📊 Social Media Campaign Performance Tracker
 
-This project focuses on analyzing Facebook & Instagram ad campaign data to evaluate performance, engagement, Click-Through Rate (CTR), and Return on Investment (ROI).
+This project is an interactive analytics dashboard built to track and analyze the performance of social media campaigns across platforms like Facebook and Instagram. The tracker provides actionable insights on ROI, CTR, Reach, Engagement, and Campaign Effectiveness, helping marketing teams optimize strategies and budgets.
 
-The goal is to build an interactive dashboard that helps marketers and business owners:
+__________________________________________
 
-Identify top-performing campaigns.
-
-Track audience engagement trends.
-
-Optimize ad spend by monitoring ROI.
-
-Support decision-making with clear data storytelling.
-
-🔹 Skills Gained
-
-Marketing Analytics – Understanding campaign KPIs (CTR, CPC, ROI, Engagement).
-
-Campaign Optimization – Identifying trends and areas for budget reallocation.
-
-Dashboard Storytelling – Presenting insights through interactive visuals.
 
 🛠️ Tools & Technologies
 
-Power BI → Data cleaning, modeling, and interactive dashboards.
+Power BI / Tableau / Excel Dashboarding (depending on actual implementation)
+
+Data Sources – Social media ads data (Facebook Ads Manager, Instagram Insights, CSV/Excel exports, etc.)
+
+Visualization – Dynamic charts, KPIs, filters, and drill-through reports
+
+__________________________________________
 
 📂 Project Workflow
 
@@ -38,15 +29,27 @@ Visualization – Build dashboards in Power BI & Looker Studio.
 
 Insights & Recommendations – Summarize campaign performance and suggest optimizations.
 
-📊 Key Dashboard Features
+__________________________________________
 
-Overview Page → Total Spend, Revenue, Profit, ROI %, CTR %.
+🚀 Features
 
-Engagement Analysis → Likes, Shares, Comments, Reach.
+📅 Custom Date Range Filter – Analyze campaigns over any selected timeframe.
 
-ROI Breakdown → Campaign-wise profitability.
+🎯 Campaign Analysis – Compare performance across multiple campaigns with metrics like spend, revenue, CTR, ROI, and reach.
 
-Filters/Slicers → By region, age group, device type.
+📈 ROI Tracking – Visualize spend vs. revenue trends and return on investment.
+
+📊 CTR Insights – Breakdown by age group, platform (Facebook/Instagram), and placement (Feed, Stories, Reels).
+
+👥 Audience Analysis – Age-group engagement and reach trends.
+
+📱💻 Device & Platform Insights – Reach comparison across mobile and desktop.
+
+📌 Key Metrics Summary – At-a-glance view of total spend, revenue, profit, ROAS, CTR, ROI%, and CPA.
+
+🔍 Interactive Filters – Filter by Placement, Campaign, Platform, Region, Age Group for deeper insights
+
+__________________________________________
 
 
 📊 Dashboard Preview
