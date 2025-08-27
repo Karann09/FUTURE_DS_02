@@ -9,9 +9,9 @@ __________________________________________
 
 🛠️ Tools & Technologies
 
-Power BI / Tableau / Excel Dashboarding (depending on actual implementation)
+Power BI : Data Modeling,Data Cleaning and Data Visualisation 
 
-Data Sources – Social media ads data (Facebook Ads Manager, Instagram Insights, CSV/Excel exports, etc.)
+Data Sources – Social media ads data (Facebook Ads Manager, Instagram Insights, CSV exports, etc.)
 
 Visualization – Dynamic charts, KPIs, filters, and drill-through reports
 
